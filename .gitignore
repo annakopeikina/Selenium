@@ -1,0 +1,78 @@
+# Игнорировать временные и конфигурационные файлы
+.anaconda/
+.bash_history
+.cache/
+.conda/
+.condarc
+.continuum/
+.cortex-debug
+.dbclient/
+.docker/
+.dotnet/
+.gitconfig
+.ipython/
+.jupyter/
+.lesshst
+.matplotlib/
+.msvscode.hdinsight/
+.scala_history
+.venv/
+.vscode/
+
+# Игнорировать системные и пользовательские данные
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+IntelGraphicsProfiles/
+Links/
+Music/
+NCH Software Suite/
+NTUSER.DAT
+NTUSER.DAT{655a9d33-4f13-11ef-9054-e76f9257262b}.TM.blf
+NTUSER.DAT{655a9d33-4f13-11ef-9054-e76f9257262b}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{655a9d33-4f13-11ef-9054-e76f9257262b}.TMContainer00000000000000000002.regtrans-ms
+OneDrive/.849C9593-D756-4E56-8D6E-42412F2A707B
+OneDrive/Desktop/BigData_intro/
+OneDrive/Desktop/DiplomaProject/
+OneDrive/Desktop/DiplomaProject_images/
+OneDrive/Desktop/ETL/
+OneDrive/Desktop/HW_recent/
+OneDrive/Desktop/New folder/
+OneDrive/Desktop/Python_spcl/
+OneDrive/Desktop/Selenium/HW7.py
+OneDrive/Desktop/client_server_interaction/
+OneDrive/Desktop/desktop.ini
+OneDrive/Desktop/diploma files mscln/
+OneDrive/Desktop/edu/
+OneDrive/Desktop/example/
+OneDrive/Desktop/leisure/
+OneDrive/Desktop/notepad++/
+OneDrive/Desktop/powBI/
+OneDrive/Desktop/python/
+OneDrive/Desktop/settings/
+OneDrive/Desktop/sql/
+OneDrive/Desktop/statistica/
+OneDrive/Desktop/superset/
+OneDrive/Desktop/unsplash/
+OneDrive/Documents/
+OneDrive/Personal Vault.lnk
+OneDrive/Pictures/
+OneDrive/desktop.ini
+OneDrive/ry/
+Saved Games/
+Searches/
+Videos/
+airflow/
+clickhouse
+clickhouse.0
+metadata/
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+preprocessed_configs/
+status
+uuid
+
